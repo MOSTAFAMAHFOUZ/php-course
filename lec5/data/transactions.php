@@ -1,0 +1,30 @@
+<?php 
+
+$transactions = [
+    ["val0"=>"Date", "val1"=>"Check #", "val2"=>"Description", "val3"=>"Amount"],
+    ["val0"=>"01/04/2021", "val1"=>"7777", "val2"=>"Transaction 1", "val3"=>"$150.43"],
+    ["val0"=>"01/05/2021", "val1"=>"", "val2"=>"Transaction 2", "val3"=>"$700.25"],
+    ["val0"=>"01/06/2021", "val1"=>"", "val2"=>"Transaction 3", "val3"=>"-$1,303.97"],
+    ["val0"=>"01/07/2021", "val1"=>"", "val2"=>"Transaction 4", "val3"=>"$46.78"],
+    ["val0"=>"01/08/2021", "val1"=>"", "val2"=>"Transaction 5", "val3"=>"$816.87"],
+    ["val0"=>"01/11/2021", "val1"=>"1934", "val2"=>"Transaction 6", "val3"=>"-$1,002.53"],
+    ["val0"=>"01/12/2021", "val1"=>"7307", "val2"=>"Transaction 7", "val3"=>"$532.22"],
+    ["val0"=>"01/13/2021", "val1"=>"1352", "val2"=>"Transaction 8", "val3"=>"-$704.59"],
+    ["val0"=>"01/14/2021", "val1"=>"", "val2"=>"Transaction 9", "val3"=>"$98.04"],
+    ["val0"=>"01/15/2021", "val1"=>"", "val2"=>"Transaction 10", "val3"=>"-$204.56"],
+    ["val0"=>"01/25/2021", "val1"=>"", "val2"=>"Transaction 11", "val3"=>"$1,056.27"],
+    ["val0"=>"01/26/2021", "val1"=>"", "val2"=>"Transaction 12", "val3"=>"$550.10"],
+    ["val0"=>"01/27/2021", "val1"=>"", "val2"=>"Transaction 13", "val3"=>"-$825.77"],
+    ["val0"=>"01/28/2021", "val1"=>"4250", "val2"=>"Transaction 14", "val3"=>"$212.68"],
+    ["val0"=>"01/29/2021", "val1"=>"", "val2"=>"Transaction 15", "val3"=>"$195.68"],
+    ["val0"=>"02/02/2021", "val1"=>"9915", "val2"=>"Transaction 16", "val3"=>"-$463.75"],
+    ["val0"=>"02/03/2021", "val1"=>"", "val2"=>"Transaction 17", "val3"=>"$78.02"],
+    ["val0"=>"02/04/2021", "val1"=>"", "val2"=>"Transaction 18", "val3"=>"$268.81"],
+    ["val0"=>"02/05/2021", "val1"=>"", "val2"=>"Transaction 19", "val3"=>"$1,360.55"],
+    ["val0"=>"02/08/2021", "val1"=>"", "val2"=>"Transaction 20", "val3"=>"-$594.46"],
+    ["val0"=>"02/09/2021", "val1"=>"9125", "val2"=>"Transaction 21", "val3"=>"$467.39"],
+    ["val0"=>"02/10/2021", "val1"=>"", "val2"=>"Transaction 22", "val3"=>"$39.49"],
+    ["val0"=>"02/11/2021", "val1"=>"7929", "val2"=>"Transaction 23", "val3"=>"-$81.87"],
+    ["val0"=>"02/12/2021", "val1"=>"", "val2"=>"Transaction 24", "val3"=>"$255.64"],
+    ["val0"=>"02/12/2021", "val1"=>"", "val2"=>"Transaction 25", "val3"=>"$13.51"]
+];
