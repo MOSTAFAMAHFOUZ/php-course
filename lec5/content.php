@@ -2,14 +2,14 @@
 
 /**
  * json to array and array to json
+*  time
+*      time()
+*      date() 
+*      strtotime()
+*      date_default_timezone_get() 
+*      date_default_timezone_set() 
  * project 
  * sessions and cookies 
- * time
- *      time()
- *      date() 
- *      strtotime()
- *      date_default_timezone_get() 
- *      date_default_timezone_set() 
  * 
  * filesystem 
  *      __DIR__
